@@ -1,0 +1,42 @@
+.skills-section {
+  padding: 50px 20px;
+  max-width: 900px;
+  margin: auto;
+  background-color: #f9f9f9;
+}
+
+.section-title {
+  font-size: 32px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: #333;
+}
+
+.skills-category {
+  background-color: #fff;
+  margin-bottom: 20px;
+  padding: 20px 30px;
+  border-left: 6px solid #007acc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
+  transition: transform 0.3s ease;
+}
+
+.skills-category:hover {
+  transform: scale(1.02);
+}
+
+.skills-category h3 {
+  margin-top: 0;
+  color: #007acc;
+}
+
+.skills-category ul {
+  padding-left: 20px;
+  list-style-type: circle;
+  margin: 10px 0 0 0;
+}
+
+.skills-category li {
+  line-height: 1.8;
+  color: #444;
+}

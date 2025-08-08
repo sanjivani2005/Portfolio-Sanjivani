@@ -1,0 +1,89 @@
+.achievements {
+  padding: 2rem;
+  text-align: center;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem; /* More space between buttons */
+  margin-bottom: 2rem;
+}
+
+/* Stylish toggle buttons */
+.toggle-btn {
+  padding: 0.75rem 2rem;
+  background: linear-gradient(135deg, #6c63ff, #42a5f5);
+  color: white;
+  border: none;
+  border-radius: 12px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.toggle-btn:hover {
+  transform: scale(1.05);
+  background: linear-gradient(135deg, #5a54e6, #3296e0);
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+/* Card design for awards/certifications */
+.card {
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.1);
+  width: 270px;
+  padding: 1.2rem;
+  transition: transform 0.3s ease;
+  text-align: left;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 10px;
+  object-fit: cover;
+  max-height: 180px;
+}
+
+.card h3 {
+  margin-top: 0.8rem;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.card p {
+  font-size: 0.95rem;
+  color: #555;
+  margin-top: 0.3rem;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Optional: Smooth toggle section transitions */
+.foldable-section {
+  overflow: hidden;
+  transition: max-height 0.4s ease, opacity 0.4s ease;
+  max-height: 2000px;
+  opacity: 1;
+}
+
+.foldable-section.hidden {
+  max-height: 0;
+  opacity: 0;
+}
