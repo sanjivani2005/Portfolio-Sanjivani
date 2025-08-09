@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# 💼 Sanjivani Shende — Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi! 👋 I'm **Sanjivani Shende**, a Computer Science and Business Systems student, currently in my 3rd year at St. Vincent Pallotti College of Engineering, Nagpur.  
+I’m passionate about **Data Analysis, Machine Learning, and Web Development**, and I enjoy working on projects that combine technology with problem-solving.
+<img width="1879" height="915" alt="Screenshot 2025-08-10 005545" src="https://github.com/user-attachments/assets/90c8ff19-7bef-4506-9d47-759c018f0672" />
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌐 Live Portfolio
+[🔗 Visit My Portfolio Website](https://your-portfolio-link.com)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📌 About Me
+- 🎓 Computer Science & Business Systems Engineering Student  
+- 💻 Interests: **Data Science, Web Development, Cloud Computing**  
+- 📊 Skilled in: Python, HTML, CSS, JavaScript, Power BI, SQL  
+- 🌱 Currently improving **Machine Learning & DSA** skills  
+- 📍 Based in Nagpur, India  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚀 Skills
+- **Programming Languages:** Python, C, C++, JavaScript, R  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Data Analysis & Visualization:** Pandas, Numpy, Matplotlib, Seaborn, Power BI  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman  
+- **Other:** Basic Photoshop, Adobe Illustrator  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📬 Contact
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🐙 GitHub: [github.com/sanj8484](https://github.com/sanj8484)  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
+⭐ *Feel free to explore my projects and connect with me!*
+<img width="1899" height="890" alt="Screenshot 2025-08-10 005611" src="https://github.com/user-attachments/assets/fcb0f200-118b-478f-9a88-cd818dd36544" />
+<img width="1886" height="898" alt="Screenshot 2025-08-10 005635" src="https://github.com/user-attachments/assets/35325957-fb5d-4c0e-b164-687898fc8867" />
+<img width="1892" height="893" alt="Screenshot 2025-08-10 005658" src="https://github.com/user-attachments/assets/536d1b44-a739-421f-bef4-87eb682e69e9" />
+<img width="1900" height="900" alt="Screenshot 2025-08-10 005714" src="https://github.com/user-attachments/assets/a1da18e0-866b-4896-b261-a18314d916d5" />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
