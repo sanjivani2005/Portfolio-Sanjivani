@@ -1,8 +1,6 @@
 # 💼 Sanjivani Shende — Portfolio
 
-Hi! 👋 I'm **Sanjivani Shende**, a Computer Science and Business Systems student, currently in my 3rd year at St. Vincent Pallotti College of Engineering, Nagpur.  
-
-I’m Sanjivani Shende, a curious mind in the world of Computer Science and Business Systems, currently in my 3rd year. I’m passionate about turning ideas into solutions — whether it’s decoding data, building smart applications, or designing intuitive web experiences.
+Hi! 👋 I'm **Sanjivani Shende**, a Computer Science and Business Systems student, currently in my 3rd year at St. Vincent Pallotti College of Engineering, Nagpur, a curious mind in the world of Computer Science and Business Systems, currently in my 3rd year. I’m passionate about turning ideas into solutions — whether it’s decoding data, building smart applications, or designing intuitive web experiences.
 
 Technology, for me, isn’t just about code; it’s about connecting people, solving problems, and creating something that makes life a little better. I’ve explored data analysis, machine learning, and web development, and I’m always learning, experimenting, and pushing myself to grow.
 
