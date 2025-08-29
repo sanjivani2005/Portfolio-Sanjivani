@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Sanjivani/static/css/main.d3c3f526.css",
+    "main.js": "/Portfolio-Sanjivani/static/js/main.7eacc3d0.js",
+    "static/media/profile.jpg": "/Portfolio-Sanjivani/static/media/profile.120f848c57e38f091e57.jpg",
+    "index.html": "/Portfolio-Sanjivani/index.html",
+    "main.d3c3f526.css.map": "/Portfolio-Sanjivani/static/css/main.d3c3f526.css.map",
+    "main.7eacc3d0.js.map": "/Portfolio-Sanjivani/static/js/main.7eacc3d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c3f526.css",
+    "static/js/main.7eacc3d0.js"
+  ]
+}
